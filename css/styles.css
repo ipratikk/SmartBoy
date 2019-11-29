@@ -8,7 +8,8 @@
   }
 
   html, body {
-    background-image: -webkit-linear-gradient(left bottom, #6d327c, #485DA6, #00a1ba, #00BF98, #36C486) !important;
+    /* background-image: -webkit-linear-gradient(left bottom, #6d327c, #485DA6, #00a1ba, #00BF98, #36C486) !important; */
+    background-image: -webkit-linear-gradient(left bottom, #45b649, #dce35b) !important;
   }
 
   #footer{
@@ -30,7 +31,11 @@ html, body {
   padding: 0;
   overflow-x: hidden;
   font-family: "Montserrat";
-  background-image: linear-gradient(to right top, #6d327c, #485DA6, #00a1ba, #00BF98, #36C486);
+  /* background-image: linear-gradient(to right top, #6d327c, #485DA6, #00a1ba, #00BF98, #36C486); */
+  /* background-image: linear-gradient(to right top, #45b649, #dce35b) !important; */
+
+  background-color: #f2cf43;
+background-image: linear-gradient(315deg, #f2cf43 10%, #19a186 85%);
 }
 
 .container-fluid {
